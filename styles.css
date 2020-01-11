@@ -5,32 +5,45 @@ h1{
     text-align: center;
     font-family: Helvetica, sans-serif;
     color:darkslategray;
-    font-size:4rem;
+    font-size: 30px;
 }
 h2{
     font-family: Helvetica, sans-serif;
     color:darkblue;
 }
 
-div {
-    filter: drop-shadow(10px 10px 4px darkslategray);
-    position: relative;
-  }
+h3{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color:darkblue;
+}
 
-p {
+#pbio {
     font-family: Helvetica, sans-serif;
     font-size: 15px;
     color: rgb(60, 49, 77);
+    width: 70%;
   }
-ul{
+
+#border{
     border-style: dotted;
+    position:relative;
+    top:0;
+    left:0;
+    float:right;
+}
+
+#table{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #catpic {
     filter: drop-shadow(10px 10px 4px darkslategray);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
+    float: left;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
   
