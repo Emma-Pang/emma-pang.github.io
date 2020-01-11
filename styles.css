@@ -1,0 +1,28 @@
+body {
+    background-color: lightcyan;
+}
+h1{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:4rem;
+}
+h2{
+    font-family: Helvetica, sans-serif;
+    color:darkblue;
+}
+
+div {
+    filter: drop-shadow(10px 10px 4px darkslategray);
+    position: relative;
+  }
+
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(60, 49, 77);
+  }
+ul{
+    border-style: dotted;
+}
+  
